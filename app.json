@@ -1,0 +1,17 @@
+
+
+{
+   "expo": {
+    "name": "Dasam Granth",
+    "icon": "./if_book_alt2_118726.png",
+    "version": "1.0.0",
+    "slug": "app_dasam_granth",
+    "sdkVersion": "22.0.0",
+    "ios": {
+      "bundleIdentifier": "com.amandeep.dasam-granth"
+    },
+    "android": {
+      "package": "com.amandeep.dasam-granth "
+    }
+   }
+ }
